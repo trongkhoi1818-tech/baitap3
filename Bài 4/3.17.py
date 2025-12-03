@@ -1,5 +1,5 @@
 
-print("##################################")
+print("ho ten:hoang trong khoi:mssv 245752021610117")
 def tong_uoc_so(n):
     return sum([i for i in range(1, n) if n % i == 0])
 
@@ -17,3 +17,4 @@ def main():
         print("Vui long nhap mot so nguyen.")
 if _name_=="_main_":
     main()
+
