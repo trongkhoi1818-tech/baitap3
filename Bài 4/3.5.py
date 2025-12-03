@@ -1,5 +1,5 @@
 
-print("##################################")
+print("ho ten:hoang trong khoi:mssv 245752021610117")
 ds = input('danh sach:').split()
 
 # in ca day vua nhap
@@ -12,3 +12,4 @@ for so in ds:
 # in day vua nhap thao thu tu nguoc lai
 ds.reverse()
 print(' '.join(ds))
+
