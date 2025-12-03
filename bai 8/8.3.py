@@ -1,5 +1,5 @@
 
-print("############################")
+print("ho ten:hoang trong khoi:mssv 245752021610117")
 import turtle
 
 import turtle
@@ -14,3 +14,4 @@ for color in colors:
     painter.left(angle)
 
 turtle.done()
+
