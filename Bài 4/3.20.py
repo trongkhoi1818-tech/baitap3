@@ -1,5 +1,5 @@
 
-print("#########################")
+print("ho ten:hoang trong khoi:mssv 245752021610117")
 
 def generate_pascal_triangle(n):
     return [[1] * (i + 1) for i in range(n)]
@@ -16,3 +16,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
