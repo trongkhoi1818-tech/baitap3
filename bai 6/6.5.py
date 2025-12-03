@@ -1,5 +1,5 @@
 
-print("########################################")
+print("ho ten:hoang trong khoi:mssv 245752021610117")
 class ReverseString:
     def reverse_words(self, s):
         words = s.split() # Tách chuỗi thành danh sách các từ
@@ -12,3 +12,4 @@ input_string = 'hello .py'
 reversed_output = reverser.reverse_words(input_string)
 print("Dữ liệu vào:", input_string)
 print("Đầu ra:", reversed_output)
+
