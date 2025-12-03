@@ -1,5 +1,5 @@
 
-print("############################")
+print("ho ten:hoang trong khoi:mssv 245752021610117")
 
 # Sử dụng def methodName(self) để định nghĩa method.
 class Circle(object):
@@ -12,3 +12,4 @@ class Circle(object):
 
 aCircle = Circle(2)
 print(aCircle.area())
+
