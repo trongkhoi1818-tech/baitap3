@@ -1,5 +1,5 @@
 
-print("##################################")
+print("ho ten:hoang trong khoi:mssv 245752021610117")
 #nhap vao list
 ds = input('nhap chuoi: ').split()
 
@@ -7,3 +7,4 @@ ds = input('nhap chuoi: ').split()
 ds.append('abc')
 for ch in ds:
     print(ch)
+
